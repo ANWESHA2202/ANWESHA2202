@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN PROJECTS<br>👯 I’m looking to collaborate on FRONTEND PROJECTS<br>🌱 I’m currently learning FRONTEND FRAMEWORKS<br>💬 Ask me about WEB DEVELOPMENT, PROJECT MANAGEMENT or UP FOR ANY TECHIE DISCUSSION<br>⚡ Fun fact I PUSH UNSEEN BUGS TO CODES😉
+Hey there! ✨
+<br>👀 Seeking the mysteries of the MERN stack and brewing some mind-blowing projects.👩‍💻
+<br>💃 Ready to dance the code tango with fellow frontend enthusiasts and collaborate on mind-blowing projects.
+<br>☕ Sipping on some frontend frameworks, leveling up the development game one framework at a time.
+<br>💬 Oh, bring it on! I'm the chatterbox of web development, project management, or anything tech-related. Let's dive into the geekiest discussions!
+<br>⚡ Watch out! I'm that magical bug-whisperer who unleashes unseen bugs into codes (and fixes them, of course!) 😉.
+
+<br>Get ready to ride the tech rollercoaster with me! Let's weave some enchanting frontend spells together! 💻✨
 
 
 ## 🌐 Socials:
